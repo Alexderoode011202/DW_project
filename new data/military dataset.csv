@@ -1,0 +1,188 @@
+,Country Code,Country,Region,Subregion,Population,Total military firearms,Computation method
+0,ALB,Albania,Europe,Southern Europe,2911000,21750,2
+1,DZA,Algeria,Africa,Northern Africa,41064000,637720,2
+2,AGO,Angola,Africa,Middle Africa,26656000,203300,2
+3,ATG,Antigua and Barbuda,Americas,Caribbean,94000,438,2
+4,ARG,Argentina,Americas,South America,44272000,679770,2
+5,ARM,Armenia,Asia,Western Asia,3032000,509240,2
+6,AUS,Australia,Oceania,Australia/New Zealand,24642000,214520,2
+7,AUT,Austria,Europe,Western Europe,8592000,240880,2
+8,AZE,Azerbaijan,Asia,Western Asia,9974000,537920,2
+9,Country,Country,Region,Subregion,Population,Total military,Computation method
+10,BHS,"Bahamas, The",Americas,Caribbean,397000,2470,2
+11,BHR,Bahrain,Asia,Western Asia,1419000,25796,2
+12,BGD,Bangladesh,Asia,Southern Asia,164828000,410305,2
+13,BRB,Barbados,Americas,Caribbean,286000,1675,2
+14,BLR,Belarus,Europe,Eastern Europe,9459000,780600,2
+15,BEL,Belgium,Europe,Western Europe,11444000,80880,2
+16,BLZ,Belize,Americas,Central America,375000,3690,2
+17,BEN,Benin,Africa,Western Africa,11459000,8700,2
+18,BTN,Bhutan,Asia,Southern Asia,793000,15200,2
+19,BOL,"Bolivia, Plurinational State of",Americas,South America,11053000,87590,2
+20,BIH,Bosnia and Herzegovina,Europe,Southern Europe,3793000,27300,2
+21,BWA,Botswana,Africa,Southern Africa,2344000,17100,2
+22,BRA,Brazil,Americas,South America,211243000,1316300,1
+23,BRN,Brunei Darussalam,Asia,South-eastern Asia,434000,20220,2
+24,Country,Country,Region,Subregion,Population,Total military,Computation method
+25,BGR,Bulgaria,Europe,Eastern Europe,7045000,176640,2
+26,BFA,Burkina Faso,Africa,Western Africa,19173000,43780,2
+27,BDI,Burundi,Africa,Eastern Africa,11936000,75960,2
+28,CPV,Cabo Verde (Cape Verde),Africa,Western Africa,533000,2280,2
+29,KHM,Cambodia,Asia,South-eastern Asia,16076000,258670,2
+30,CMR,Cameroon,Africa,Middle Africa,24514000,27360,2
+31,CAN,Canada,Americas,Northern America,36626000,233949,1
+32,CAF,Central African Republic,Africa,Middle Africa,5099000,8580,2
+33,TCD,Chad,Africa,Middle Africa,14965000,25020,2
+34,CHL,Chile,Americas,South America,18313000,311900,2
+35,CHN,China,Asia,Eastern Asia,1388233000,27466400,2
+36,COL,Colombia,Americas,South America,49068000,350689,1
+37,COM,Comoros,Africa,Eastern Africa,826000,600,2
+38,Country,Country,Region,Subregion,Population,Total military,Computation method
+39,COG,"Congo, Republic of",Africa,Middle Africa,4866000,12000,2
+40,CIV,Côte d'Ivoire (Ivory Coast),Africa,Western Africa,23816000,33045,2
+41,HRV,Croatia,Europe,Southern Europe,4210000,75120,2
+42,CUB,Cuba,Americas,Caribbean,11390000,958100,2
+43,CYP,"Cyprus, Rep. of",Asia,Western Asia,839000,99000,2
+44,CZE,Czech Republic,Europe,Eastern Europe,10555000,157233,1
+45,COD,Democratic Republic of Congo,Africa,Middle Africa,82243000,161100,2
+46,DNK,Denmark,Europe,Northern Europe,5712000,124120,2
+47,DJI,Djibouti,Africa,Eastern Africa,911000,19855,2
+48,DOM,Dominican Republic,Americas,Caribbean,10767000,106495,2
+49,ECU,Ecuador,Americas,South America,16626000,253668,2
+50,EGY,Egypt,Africa,Northern Africa,95215000,1544750,2
+51,SLV,El Salvador,Americas,Central America,6167000,127840,2
+52,Country,Country,Region,Subregion,Population,Total military,Computation method
+53,GNQ,Equatorial Guinea,Africa,Middle Africa,894000,2760,2
+54,ERI,Eritrea,Africa,Eastern Africa,5482000,668550,2
+55,EST,Estonia,Europe,Northern Europe,1306000,38760,2
+56,ETH,Ethiopia,Africa,Eastern Africa,104345000,525600,2
+57,FJI,Fiji,Oceania,Melanesia,903000,16700,2
+58,FIN,Finland,Europe,Northern Europe,5541000,475030,2
+59,FRA,France,Europe,Western Europe,64939000,566430,2
+60,GAB,Gabon,Africa,Middle Africa,1801000,5640,2
+61,GMB,Gambia,Africa,Western Africa,2120000,1080,2
+62,GEO,Georgia,Asia,Western Asia,3973000,63950,2
+63,DEU,Germany,Europe,Western Europe,80636000,483016,1
+64,GHA,Ghana,Africa,Western Africa,28657000,18600,2
+65,GRC,Greece,Europe,Southern Europe,10893000,642510,2
+66,GTM,Guatemala,Americas,Central America,17005000,160600,2
+67,GIN,Guinea,Africa,Western Africa,13291000,23080,2
+68,Country,Country,Region,Subregion,Population,Total military,Computation method
+69,GNB,Guinea-Bissau,Africa,Western Africa,1933000,10260,2
+70,GUY,Guyana,Americas,South America,774000,10890,2
+71,HTI,Haiti,Americas,Caribbean,10983000,380,2
+72,HND,Honduras,Americas,Central America,8305000,107720,2
+73,HUN,Hungary,Europe,Eastern Europe,9788000,147880,2
+74,ISL,Iceland,Europe,Northern Europe,334000,650,2
+75,IND,India,Asia,Southern Asia,1342513000,3900000,1
+76,IDN,Indonesia,Asia,South-eastern Asia,263510000,1711450,2
+77,IRN,"Iran, Islamic Republic of",Asia,Southern Asia,80946000,3333550,2
+78,Country,Country,Region,Subregion,Population,Total military,Computation method
+79,IRQ,Iraq,Asia,Western Asia,38654000,611000,2
+80,IRL,Ireland,Europe,Northern Europe,4749000,26636,2
+81,ISR,Israel,Asia,Western Asia,8323000,1016900,2
+82,ITA,Italy,Europe,Southern Europe,59798000,502960,2
+83,JAM,Jamaica,Americas,Caribbean,2813000,8681,1
+84,JPN,Japan,Asia,Eastern Asia,126045000,745514,2
+85,JOR,Jordan,Asia,Western Asia,7877000,286450,2
+86,KAZ,Kazakhstan,Asia,Central Asia,18064000,375690,2
+87,KEN,Kenya,Africa,Eastern Africa,48467000,45790,2
+88,PRK,"Korea, DPR (North)",Asia,Eastern Asia,25405000,8363100,2
+89,KOR,"Korea, Republic of (South)",Asia,Eastern Asia,50705000,2688020,2
+90,Country,Country,Region,Subregion,Population,,Computation method
+91,XKS,Kosovo,Europe,Southern Europe,1831000,,2
+92,KWT,Kuwait,Asia,Western Asia,4100000,,2
+93,KGZ,Kyrgyzstan,Asia,Central Asia,6125000,,2
+94,LAO,Lao People's Democratic Republic,Asia,South-eastern Asia,7038000,,2
+95,LVA,Latvia,Europe,Northern Europe,1945000,,2
+96,LBN,Lebanon,Asia,Western Asia,6039000,,2
+97,LSO,Lesotho,Africa,Southern Africa,2185000,,2
+98,LBR,Liberia,Africa,Western Africa,4730000,,2
+99,LBY,Libya,Africa,Northern Africa,6409000,,4
+100,LTU,Lithuania,Europe,Northern Europe,2831000,,2
+101,LUX,Luxembourg,Europe,Western Europe,584000,,2
+102,MDG,Madagascar,Africa,Eastern Africa,25613000,,2
+103,MDV,Maldives,Asia,Southern Asia,376000,,2
+104,MWI,Malawi,Africa,Eastern Africa,18299000,,2
+105,Country,Country,Region,Subregion,Population,Total military,Computation method
+106,MYS,Malaysia,Asia,South-eastern Asia,31164000,428170,2
+107,MLI,Mali,Africa,Western Africa,18690000,15800,2
+108,MLT,Malta,Europe,Southern Europe,421000,5547,1
+109,MRT,Mauritania,Africa,Western Africa,4266000,22820,2
+110,MUS,Mauritius,Africa,Eastern Africa,1281000,4845,2
+111,MEX,Mexico,Americas,Central America,130223000,895285,2
+112,MDA,"Moldova, Republic of",Europe,Eastern Europe,4055000,98600,2
+113,MNG,Mongolia,Asia,Eastern Asia,3052000,323400,2
+114,MNE,Montenegro,Europe,Southern Europe,626000,5396,1
+115,MAR,Morocco,Africa,Northern Africa,35241000,588020,2
+116,Country,Country,Region,Subregion,Population,Total military,Computation method
+117,MOZ,Mozambique,Africa,Eastern Africa,29538000,60000,2
+118,MMR,Myanmar,Asia,South-eastern Asia,54836000,788900,2
+119,NAM,Namibia,Africa,Southern Africa,2569000,11880,2
+120,NPL,Nepal,Asia,Southern Asia,29187000,183540,2
+121,NLD,Netherlands,Europe,Western Europe,17033000,108676,2
+122,NZL,New Zealand,Oceania,Australia/New Zealand,4605000,38280,2
+123,NIC,Nicaragua,Americas,Central America,6218000,261800,2
+124,NER,Niger,Africa,Western Africa,21564000,11110,2
+125,NGA,Nigeria,Africa,Western Africa,191836000,224200,2
+126,NOR,Norway,Europe,Northern Europe,5331000,188646,1
+127,OMN,Oman,Asia,Western Asia,4741000,118360,2
+128,PAK,Pakistan,Asia,Southern Asia,196744000,2315480,2
+129,PSE,Palestinian Territories,Asia,Western Asia,4928000,44410,2
+130,Country,Country,Region,Subregion,Population,Total military,Computation method
+131,PRY,Paraguay,Americas,South America,6812000,235780,2
+132,PER,Peru,Americas,South America,32166000,473400,2
+133,PHL,Philippines,Asia,South-eastern Asia,103797000,454700,2
+134,POL,Poland,Europe,Eastern Europe,38564000,307200,2
+135,PRT,Portugal,Europe,Southern Europe,10265000,333640,2
+136,PNT,Puntland State of Somalia,Africa,Eastern Africa,1995000,3600,2
+137,QAT,Qatar,Asia,Western Asia,2338000,30680,2
+138,ROU,Romania,Europe,Eastern Europe,19238000,240180,2
+139,RUS,Russian Federation,Europe,Eastern Europe,143375000,30272900,2
+140,RWA,Rwanda,Africa,Eastern Africa,12160000,66500,2
+141,STP,São Tomé and Principe,Africa,Middle Africa,198000,570,2
+142,SAU,Saudi Arabia,Asia,Western Asia,32743000,481350,2
+143,Country,Country,Region,Subregion,Population,Total military,Computation method
+144,SEN,Senegal,Africa,Western Africa,16054000,16320,2
+145,SRB,Serbia,Europe,Southern Europe,6946000,384422,1
+146,SYC,Seychelles,Africa,Eastern Africa,98000,798,2
+147,SLE,Sierra Leone,Africa,Western Africa,6733000,10200,2
+148,SGP,Singapore,Asia,South-eastern Asia,5785000,574140,2
+149,SVK,Slovakia,Europe,Eastern Europe,5432000,33150,2
+150,SVN,Slovenia,Europe,Southern Europe,2071000,131686,1
+151,SOM,Somalia,Africa,Eastern Africa,9225000,37620,2
+152,SLD,Somaliland,Africa,Eastern Africa,3823000,23750,2
+153,ZAF,South Africa,Africa,Southern Africa,55436000,350636,1
+154,ESP,Spain,Europe,Southern Europe,46070000,333660,2
+155,LKA,Sri Lanka,Asia,Southern Asia,20905000,509700,2
+156,SDN,Sudan,Africa,Northern Africa,42166000,590170,1
+157,Country,Country,Region,Subregion,Population,,Computation method
+158,SSD,South Sudan,Africa,Eastern Africa,13096000,,2
+159,SUR,Suriname,Americas,South America,552000,,2
+160,SWZ,Swaziland,Africa,Southern Africa,1320000,,2
+161,SWE,Sweden,Europe,Northern Europe,9921000,,2
+162,CHE,Switzerland,Europe,Western Europe,8454000,,1
+163,SYR,Syrian Arab Republic,Asia,Western Asia,18907000,,2
+164,TWN,Taiwan (Rep. of China),Asia,Eastern Asia,23405000,,2
+165,TJK,Tajikistan,Asia,Central Asia,8858000,,2
+166,THA,Thailand,Asia,South-eastern Asia,68298000,,2
+167,MKD,"Macedonia, Former Yugoslav Republic of",Europe,Southern Europe,2083000,,2
+168,TLS,Timor-Leste (East Timor),Asia,South-eastern Asia,1237000,,2
+169,TGO,Togo,Africa,Western Africa,7692000,,1
+170,TTO,Trinidad and Tobago,Americas,Caribbean,1369000,,2
+171,Country,Country,Region,Subregion,Population,Total military,Computation method
+172,TUN,Tunisia,Africa,Northern Africa,11495000,68020,2
+173,TUR,Turkey,Asia,Western Asia,80418000,1390180,2
+174,TKM,Turkmenistan,Asia,Central Asia,5503000,184700,2
+175,ARE,United Arab Emirates,Asia,Western Asia,9398000,163800,2
+176,UGA,Uganda,Africa,Eastern Africa,41653000,116660,2
+177,UKR,Ukraine,Europe,Eastern Europe,44405000,6600000,1
+178,GBR,United Kingdom,Europe,Northern Europe,65511000,539680,2
+179,TZA,"Tanzania, United Republic of",Africa,Eastern Africa,56878000,190050,2
+180,USA,United States of America,Americas,Northern America,326474000,4535380,1
+181,URY,Uruguay,Americas,South America,3457000,62130,2
+182,UZB,Uzbekistan,Asia,Central Asia,30691000,268400,2
+183,VEN,"Venezuela, Bolivarian Republic of",Americas,South America,31926000,353300,2
+184,YEM,Yemen,Asia,Western Asia,28120000,28500,2
+185,ZMB,Zambia,Africa,Eastern Africa,17238000,41040,2
+186,ZWE,Zimbabwe,Africa,Eastern Africa,16338000,91580,2
