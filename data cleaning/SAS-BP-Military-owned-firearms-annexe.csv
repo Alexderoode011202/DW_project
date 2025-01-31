@@ -1,0 +1,302 @@
+,Country Code,Country,Region,Subregion,Population,Category,Undefined,Total military firearms,Firearms in subcategories,Computation method
+0,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+3,ALB,Albania,Europe,Southern Europe,2911000,,"country total
+all active military",21750,20800,2
+5,DZA,Algeria,Africa,Northern Africa,41064000,,"country total
+all active military",637720,338000,2
+10,AGO,Angola,Africa,Middle Africa,26656000,,all active military,203300,,2
+11,ATG,Antigua and Barbuda,Americas,Caribbean,94000,,"country total
+all active military",438,342,2
+13,ARG,Argentina,Americas,South America,44272000,,"country total
+all active military",679770,192920,2
+16,ARM,Armenia,Asia,Western Asia,3032000,,"country total
+all active military",509240,149240,2
+18,AUS,Australia,Oceania,Australia/New Zealand,24642000,,"country total
+all active military",214520,183186,2
+20,AUT,Austria,Europe,Western Europe,8592000,,"country total
+all active military",240880,58240,2
+22,AZE,Azerbaijan,Asia,Western Asia,9974000,,"country total
+all active military",537920,183820,2
+25,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+29,BHS,"Bahamas, The",Americas,Caribbean,397000,,all active military,2470,,2
+30,BHR,Bahrain,Asia,Western Asia,1419000,,"country total
+all active military",25796,21320,2
+33,BGD,Bangladesh,Asia,Southern Asia,164828000,,"country total
+all active military",410305,298395,2
+37,BRB,Barbados,Americas,Caribbean,286000,,"country total
+all active military",1675,1159,2
+39,BLR,Belarus,Europe,Eastern Europe,9459000,,"country total
+all active military",780600,410400,2
+42,BEL,Belgium,Europe,Western Europe,11444000,,"country total
+all active military",80880,74880,2
+44,BLZ,Belize,Americas,Central America,375000,,"country total
+all active military",3690,2850,2
+46,BEN,Benin,Africa,Western Africa,11459000,,all active military,8700,,2
+47,BTN,Bhutan,Asia,Southern Asia,793000,,all active military,15200,,2
+48,BOL,"Bolivia, Plurinational State of",Americas,South America,11053000,,all active military,87590,,2
+49,BIH,Bosnia and Herzegovina,Europe,Southern Europe,3793000,,reserve forces,27300,,2
+50,BWA,Botswana,Africa,Southern Africa,2344000,,all active military,17100,,2
+51,BRA,Brazil,Americas,South America,211243000,,"country total
+all active military",1316300,635550,1
+53,BRN,Brunei Darussalam,Asia,South-eastern Asia,434000,,"country total
+all active military",20220,18720,2
+55,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+58,BGR,Bulgaria,Europe,Eastern Europe,7045000,,"country total
+all active military",176640,150240,2
+61,BFA,Burkina Faso,Africa,Western Africa,19173000,,"country total
+all active military",43780,21280,2
+63,BDI,Burundi,Africa,Eastern Africa,11936000,,"country total
+all active military",75960,36060,2
+65,CPV,Cabo Verde (Cape Verde),Africa,Western Africa,533000,,all active military,2280,,2
+66,KHM,Cambodia,Asia,South-eastern Asia,16076000,,"country total
+all active military",258670,236170,2
+68,CMR,Cameroon,Africa,Middle Africa,24514000,,all active military,27360,,2
+69,CAN,Canada,Americas,Northern America,36626000,,"country total
+all active military",233949,163800,1
+72,CAF,Central African Republic,Africa,Middle Africa,5099000,,all active military,8580,,2
+73,TCD,Chad,Africa,Middle Africa,14965000,,all active military,25020,,2
+74,CHL,Chile,Americas,South America,18313000,,"country total
+all active military",311900,191900,2
+76,CHN,China,Asia,Eastern Asia,1388233000,,"country total
+all active military",27466400,14160000,2
+82,COL,Colombia,Americas,South America,49068000,,"country total
+all active military",350689,557080,1
+84,COM,Comoros,Africa,Eastern Africa,826000,,all active military,600,,2
+85,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+87,COG,"Congo, Republic of",Africa,Middle Africa,4866000,,all active military,12000,,2
+88,CIV,Côte d'Ivoire (Ivory Coast),Africa,Western Africa,23816000,,"country total
+all active military",33045,30480,2
+90,HRV,Croatia,Europe,Southern Europe,4210000,,all active military,75120,,2
+91,CUB,Cuba,Americas,Caribbean,11390000,,"country total
+all active military",958100,307800,2
+97,CYP,"Cyprus, Rep. of",Asia,Western Asia,839000,,"country total
+all active military",99000,39000,2
+99,CZE,Czech Republic,Europe,Eastern Europe,10555000,,"country total
+all active military",157233,61490,1
+101,COD,Democratic Republic of Congo,Africa,Middle Africa,82243000,,all active military,161100,,2
+102,DNK,Denmark,Europe,Northern Europe,5712000,,"country total
+all active military",124120,41860,2
+104,DJI,Djibouti,Africa,Eastern Africa,911000,,all active military,19855,,2
+105,DOM,Dominican Republic,Americas,Caribbean,10767000,,all active military,106495,,2
+106,ECU,Ecuador,Americas,South America,16626000,,"country total
+all active military",253668,111118,2
+109,EGY,Egypt,Africa,Northern Africa,95215000,,"country total
+all active military",1544750,833150,2
+113,SLV,El Salvador,Americas,Central America,6167000,,"country total
+all active military",127840,115960,2
+115,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+117,GNQ,Equatorial Guinea,Africa,Middle Africa,894000,,"all active military
+Coast Guard",2760,-,2
+118,ERI,Eritrea,Africa,Eastern Africa,5482000,,"country total
+all active military",668550,524550,2
+120,EST,Estonia,Europe,Northern Europe,1306000,,"country total
+all active military",38760,17160,2
+122,ETH,Ethiopia,Africa,Eastern Africa,104345000,,all active military,525600,,2
+123,FJI,Fiji,Oceania,Melanesia,903000,,"country total
+all active military",16700,9500,2
+125,FIN,Finland,Europe,Northern Europe,5541000,,"country total
+all active military",475030,55900,2
+128,FRA,France,Europe,Western Europe,64939000,,"country total
+all active military",566430,527670,2
+130,GAB,Gabon,Africa,Middle Africa,1801000,,all active military,5640,,2
+131,GMB,Gambia,Africa,Western Africa,2120000,,all active military,1080,,2
+132,GEO,Georgia,Asia,Western Asia,3973000,,"country total
+all active military",63950,53690,2
+134,DEU,Germany,Europe,Western Europe,80636000,,"country total
+all active military",483016,459680,1
+136,GHA,Ghana,Africa,Western Africa,28657000,,all active military,18600,,2
+137,GRC,Greece,Europe,Southern Europe,10893000,,"country total
+all active military",642510,367510,2
+140,GTM,Guatemala,Americas,Central America,17005000,,"country total
+all active military",160600,83980,2
+142,GIN,Guinea,Africa,Western Africa,13291000,,country total,23080,,2
+143,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+148,GNB,Guinea-Bissau,Africa,Western Africa,1933000,,all active military,10260,,2
+149,GUY,Guyana,Americas,South America,774000,,"country total
+all active military",10890,6540,2
+152,HTI,Haiti,Americas,Caribbean,10983000,,"country total
+all active military",380,285,2
+154,HND,Honduras,Americas,Central America,8305000,,"country total
+all active military",107720,35720,2
+156,HUN,Hungary,Europe,Eastern Europe,9788000,,"country total
+all active military",147880,72280,2
+159,ISL,Iceland,Europe,Northern Europe,334000,,Coast Guard,650,,2
+160,IND,India,Asia,Southern Asia,1342513000,,"country total
+all active military",3900000,-,1
+164,IDN,Indonesia,Asia,South-eastern Asia,263510000,,"country total
+all active military",1711450,751450,2
+167,IRN,"Iran, Islamic Republic of",Asia,Southern Asia,80946000,,"country total
+all active military",3333550,1338550,2
+171,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+173,IRQ,Iraq,Asia,Western Asia,38654000,,"country total
+all active military",611000,166400,2
+177,IRL,Ireland,Europe,Northern Europe,4749000,,"country total
+all active military",26636,23660,2
+179,ISR,Israel,Asia,Western Asia,8323000,,"country total
+all active military",1016900,458900,2
+181,ITA,Italy,Europe,Southern Europe,59798000,,"country total
+all active military",502960,453700,2
+184,JAM,Jamaica,Americas,Caribbean,2813000,,"country total
+all active military",8681,7505,1
+186,JPN,Japan,Asia,Eastern Asia,126045000,,"country total
+all active military",745514,642590,2
+189,JOR,Jordan,Asia,Western Asia,7877000,,"country total
+all active military",286450,190950,2
+192,KAZ,Kazakhstan,Asia,Central Asia,18064000,,"country total
+all active military",375690,315840,2
+194,KEN,Kenya,Africa,Eastern Africa,48467000,,all active military,45790,,2
+195,PRK,"Korea, DPR (North)",Asia,Eastern Asia,25405000,,"country total
+all active military",8363100,6144000,2
+199,KOR,"Korea, Republic of (South)",Asia,Eastern Asia,50705000,,country total,2688020,,2
+200,Country,Country,Region,Subregion,Population,,Category                                              Total military,,Firearms in sub-,Computation method
+205,XKS,Kosovo,Europe,Southern Europe,1831000,,"Kosovo Security Force                                        9,500",,,2
+206,KWT,Kuwait,Asia,Western Asia,4100000,,"country total                                                     82,580
+all active military",,40300,2
+210,KGZ,Kyrgyzstan,Asia,Central Asia,6125000,,"country total                                                   145,010
+all active military",,58560,2
+213,LAO,Lao People's Democratic Republic,Asia,South-eastern Asia,7038000,,"country total                                                   224,690
+all active military",,104690,2
+215,LVA,Latvia,Europe,Northern Europe,1945000,,"country total                                                     27,936
+all active military",,13806,2
+217,LBN,Lebanon,Asia,Western Asia,6039000,,"country total                                                   130,150
+all active military",,114000,2
+219,LSO,Lesotho,Africa,Southern Africa,2185000,,"all active military                                                2,400",,,2
+220,LBR,Liberia,Africa,Western Africa,4730000,,"all active military                                                2,520",,,2
+221,LBY,Libya,Africa,Northern Africa,6409000,,"country total                                                               ?
+Government of National Accord (Tripoli)",,-,4
+223,LTU,Lithuania,Europe,Northern Europe,2831000,,"country total                                                     81,240
+all active military",,47710,2
+226,LUX,Luxembourg,Europe,Western Europe,584000,,"all active military                                                2,340",,,2
+227,MDG,Madagascar,Africa,Eastern Africa,25613000,,"all active military                                              25,320",,,2
+228,MDV,Maldives,Asia,Southern Asia,376000,,"Maldives National Defence Force                      9,500",,,2
+229,MWI,Malawi,Africa,Eastern Africa,18299000,,"country total                                                     24,480",,,2
+230,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+234,MYS,Malaysia,Asia,South-eastern Asia,31164000,,"country total
+all active military",428170,336700,2
+238,MLI,Mali,Africa,Western Africa,18690000,,"country total
+all active military",15800,12000,2
+241,MLT,Malta,Europe,Southern Europe,421000,,"country total
+all active military",5547,5070,1
+243,MRT,Mauritania,Africa,Western Africa,4266000,,"country total
+all active military",22820,19020,2
+245,MUS,Mauritius,Africa,Eastern Africa,1281000,,paramilitary forces,4845,,2
+246,MEX,Mexico,Americas,Central America,130223000,,"country total
+all active military",895285,526585,2
+249,MDA,"Moldova, Republic of",Europe,Eastern Europe,4055000,,"country total
+all active military",98600,24440,2
+252,MNG,Mongolia,Asia,Eastern Asia,3052000,,"country total
+all active military",323400,66300,2
+257,MNE,Montenegro,Europe,Southern Europe,626000,,all active military,5396,,1
+258,MAR,Morocco,Africa,Northern Africa,35241000,,"country total
+all active military",588020,372020,2
+260,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+263,MOZ,Mozambique,Africa,Eastern Africa,29538000,,all active military,60000,,2
+264,MMR,Myanmar,Asia,South-eastern Asia,54836000,,"country total
+all active military",788900,771400,2
+266,NAM,Namibia,Africa,Southern Africa,2569000,,all active military,11880,,2
+267,NPL,Nepal,Asia,Southern Asia,29187000,,all active military,183540,,2
+268,NLD,Netherlands,Europe,Western Europe,17033000,,"country total
+all active military",108676,92066,2
+271,NZL,New Zealand,Oceania,Australia/New Zealand,4605000,,"country total
+all active military",38280,28080,2
+273,NIC,Nicaragua,Americas,Central America,6218000,,"country total
+all active military",261800,136800,2
+275,NER,Niger,Africa,Western Africa,21564000,,"country total
+all active military",11110,6360,2
+277,NGA,Nigeria,Africa,Western Africa,191836000,,all active military,224200,,2
+278,NOR,Norway,Europe,Northern Europe,5331000,,"all active and reserve military
+all active (minus Central Support)",188646,44070,1
+281,OMN,Oman,Asia,Western Asia,4741000,,"country total
+all active military",118360,110760,2
+283,PAK,Pakistan,Asia,Southern Asia,196744000,,"country total
+all active military",2315480,1699880,2
+285,PSE,Palestinian Territories,Asia,Western Asia,4928000,,country total,44410,,2
+287,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+289,PRY,Paraguay,Americas,South America,6812000,,"country total
+all active military",235780,38380,2
+291,PER,Peru,Americas,South America,32166000,,"country total
+all active military",473400,237500,2
+295,PHL,Philippines,Asia,South-eastern Asia,103797000,,"country total
+all active military",454700,237500,2
+299,POL,Poland,Europe,Eastern Europe,38564000,,"country total
+all active military",307200,273000,2
+301,PRT,Portugal,Europe,Southern Europe,10265000,,"country total
+all active military",333640,79300,2
+303,PNT,Puntland State of Somalia,Africa,Eastern Africa,1995000,,all active military,3600,,2
+304,QAT,Qatar,Asia,Western Asia,2338000,,all active military,30680,,2
+305,ROU,Romania,Europe,Eastern Europe,19238000,,"country total
+all active military",240180,180180,2
+307,RUS,Russian Federation,Europe,Eastern Europe,143375000,,"country total
+all active military",30272900,5020800,2
+311,RWA,Rwanda,Africa,Eastern Africa,12160000,,"country total
+all active military",66500,62700,2
+313,STP,São Tomé and Principe,Africa,Middle Africa,198000,,country total,570,,2
+314,SAU,Saudi Arabia,Asia,Western Asia,32743000,,country total,481350,,2
+315,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+322,SEN,Senegal,Africa,Western Africa,16054000,,all active military,16320,,2
+323,SRB,Serbia,Europe,Southern Europe,6946000,,"country total
+all active military",384422,73190,1
+325,SYC,Seychelles,Africa,Eastern Africa,98000,,all active military,798,,2
+326,SLE,Sierra Leone,Africa,Western Africa,6733000,,all active military,10200,,2
+327,SGP,Singapore,Asia,South-eastern Asia,5785000,,"country total
+all active military",574140,188500,2
+330,SVK,Slovakia,Europe,Eastern Europe,5432000,,all active military,33150,,2
+331,SVN,Slovenia,Europe,Southern Europe,2071000,,all active and reserve military,131686,18850,1
+333,SOM,Somalia,Africa,Eastern Africa,9225000,,all active military,37620,,2
+334,SLD,Somaliland,Africa,Eastern Africa,3823000,,all active military,23750,,2
+335,ZAF,South Africa,Africa,Southern Africa,55436000,,"all active and reserve military
+all active military",350636,126065,1
+337,ESP,Spain,Europe,Southern Europe,46070000,,"country total
+all active military",333660,315120,2
+339,LKA,Sri Lanka,Asia,Southern Asia,20905000,,"country total
+all active military",509700,461700,2
+344,SDN,Sudan,Africa,Northern Africa,42166000,,"country total
+all active military",590170,464170,1
+346,Country,Country,Region,Subregion,Population,,Category                                              Total military,,Firearms in sub-,Computation method
+348,SSD,South Sudan,Africa,Eastern Africa,13096000,,"all active military                                            351,500",,,2
+349,SUR,Suriname,Americas,South America,552000,,"country total                                                      5,985
+all active military",,5795,2
+351,SWZ,Swaziland,Africa,Southern Africa,1320000,,"all active military                                                5,700",,,2
+352,SWE,Sweden,Europe,Northern Europe,9921000,,"country total                                                   139,180
+active military service personnel",,77350,2
+356,CHE,Switzerland,Europe,Western Europe,8454000,,"all active and reserve military                        324,484",,54470,1
+358,SYR,Syrian Arab Republic,Asia,Western Asia,18907000,,"country total                                                   655,500
+all active military, Syrian state",,370500,2
+360,TWN,Taiwan (Rep. of China),Asia,Eastern Asia,23405000,,"country total                                                2,022,150
+all active military",,1149200,2
+363,TJK,Tajikistan,Asia,Central Asia,8858000,,"country total                                                     56,490
+reserve forces",,42240,2
+365,THA,Thailand,Asia,South-eastern Asia,68298000,,"country total                                                1,052,815
+all active military",,685615,2
+370,MKD,"Macedonia, Former Yugoslav Republic of",Europe,Southern Europe,2083000,,"country total                                                     29,530
+all active military",,20800,2
+372,TLS,Timor-Leste (East Timor),Asia,South-eastern Asia,1237000,,"all active military                                                2,527",,,2
+373,TGO,Togo,Africa,Western Africa,7692000,,"all active military                                              12,850",,,1
+374,TTO,Trinidad and Tobago,Americas,Caribbean,1369000,,"all active military                                                7,695",,,2
+375,Country,Country,Region,Subregion,Population,,Category,Total military,Firearms in sub-,Computation method
+377,TUN,Tunisia,Africa,Northern Africa,11495000,,all active military,68020,,2
+378,TUR,Turkey,Asia,Western Asia,80418000,,"country total
+all active military",1390180,923520,2
+381,TKM,Turkmenistan,Asia,Central Asia,5503000,,"country total
+all active military",184700,175200,2
+383,ARE,United Arab Emirates,Asia,Western Asia,9398000,,all active military,163800,,2
+384,UGA,Uganda,Africa,Eastern Africa,41653000,,"country total
+all active military",116660,114000,2
+386,UKR,Ukraine,Europe,Eastern Europe,44405000,,"country total
+all active military",6600000,530400,1
+390,GBR,United Kingdom,Europe,Northern Europe,65511000,,"country total
+all active military",539680,390910,2
+392,TZA,"Tanzania, United Republic of",Africa,Eastern Africa,56878000,,"country total
+all active military",190050,94050,2
+394,USA,United States of America,Americas,Northern America,326474000,,"country total
+all active military",4535380,3505840,1
+396,URY,Uruguay,Americas,South America,3457000,,"country total
+all active military",62130,60610,2
+399,UZB,Uzbekistan,Asia,Central Asia,30691000,,"country total
+all active military",268400,230400,2
+401,VEN,"Venezuela, Bolivarian Republic of",Americas,South America,31926000,,"country total
+all active military",353300,233700,2
+408,YEM,Yemen,Asia,Western Asia,28120000,,"country total
+all active military",28500,-,2
+410,ZMB,Zambia,Africa,Eastern Africa,17238000,,all active military,41040,,2
+411,ZWE,Zimbabwe,Africa,Eastern Africa,16338000,,all active military,91580,,2
